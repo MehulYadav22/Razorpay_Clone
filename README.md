@@ -1,3 +1,3 @@
-In this prrojecttt I have created RazroPay clone.
+In this project, I have created a RazroPay clone.
 Tech Used: HTML, TailWind CSS
 Editor: VS Code
